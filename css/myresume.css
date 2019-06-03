@@ -23,5 +23,8 @@ h1{
     /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 .navbar-dark .navbar-brand {
-    color: #e04873!important;
+    color: #2e247a!important;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: #2e247a!important;
 }
