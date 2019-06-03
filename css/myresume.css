@@ -17,6 +17,9 @@ h1,h2,h3,h4,h5,h6{
 h1{
         font-size:5rem;
 }
+.mb-5, .my-5 {
+    margin-bottom: 1rem!important;
+}
 .bg-primary {
     background-color: #fad473!important;
     background-image: url("https://www.transparenttextures.com/patterns/always-grey.png");
