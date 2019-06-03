@@ -18,7 +18,7 @@ h1{
         font-size:5rem;
 }
 .bg-primary {
-    background-color: background-color: #f5b923!important;
-background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
-/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+    background-color: #f5cf36;
+    background-image: url("https://www.transparenttextures.com/patterns/ag-square.png");
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
