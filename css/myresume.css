@@ -46,4 +46,5 @@ a:active, a:focus, a:hover{
 }
 small {
     color: #ab7320!important;
+    font-size:3rem!important;
 }
