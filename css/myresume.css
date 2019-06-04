@@ -41,6 +41,6 @@ a {
 a:active, a:focus, a:hover{
     color: #ffd18b;
 }
-.small, small {
+.small {
     color: #ab7320!important;
 }
