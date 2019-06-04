@@ -35,12 +35,15 @@ h1{
 .navbar-dark .navbar-nav .nav-link {
     color: #2e247a!important;
 }
+.navbar-dark:active .navbar-nav;focus .nav-link:hover {
+    color: #2e247a!important;
+}
 a {
     color: #ab7320;
 }
 a:active, a:focus, a:hover{
     color: #ffd18b;
 }
-.small, small {
+small {
     color: #ab7320!important;
 }
