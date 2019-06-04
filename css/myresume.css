@@ -42,7 +42,7 @@ a {
     color: #ab7320;
 }
 a:active, a:focus, a:hover{
-    color: #ffd18b;
+    color: #ffd18b!important;
 }
 small {
     color: #ab7320!important;
