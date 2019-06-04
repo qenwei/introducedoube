@@ -35,7 +35,7 @@ h1{
 .navbar-dark .navbar-nav .nav-link {
     color: #2e247a!important;
 }
-.navbar-dark:active .navbar-nav:focus .nav-link:hover {
+.navbar-dark:active, .navbar-nav:focus, .nav-link:hover {
     color: #7B9AEE!important;
 }
 a {
